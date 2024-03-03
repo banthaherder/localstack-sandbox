@@ -1,0 +1,9 @@
+# ignore localstack mount
+**/volume/*
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
