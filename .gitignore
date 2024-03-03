@@ -7,3 +7,6 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+# lambda zip bundle
+**/lambda_function.zip
